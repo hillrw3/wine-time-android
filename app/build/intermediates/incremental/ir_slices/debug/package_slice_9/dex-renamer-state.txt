@@ -1,4 +1,0 @@
-#Sun Sep 09 14:24:49 MDT 2018
-base.0=/Users/rob/workspace/wine-time-android/app/build/intermediates/transforms/dexMerger/debug/10
-path.0=classes.dex
-renamed.0=classes.dex
